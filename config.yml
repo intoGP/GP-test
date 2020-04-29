@@ -1,0 +1,13 @@
+title: Programacion Genetica
+tagline: Todo lo que deseas saber acerca del mejor metodo de busqueda
+description: Aprende a configurar, ejecutar e interpretar el algoritmo de busqueda de programacion genetica, paso a paso.
+tags:
+  - Git
+  - GitHub
+template:
+    name: security-on-github
+    repo: security-template
+steps:
+  - title: Introduccion
+    description:
+    event: page_build
